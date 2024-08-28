@@ -68,9 +68,6 @@ Junte-se a nós nesta jornada emocionante de desenvolvimento de software, gamifi
 - Armazenamento no Firebase
 - [Link para o site](https://adote.nova-work.cloud/)
 
-### [App Calculadora de notas academicas](hhttps://github.com/ladsoftunama/App-Calculadora-de-Notas-Academicas-Unama)
-
-![img]([/imagens/Frame%2016.png](https://github.com/ladsoftunama/ladsoftunama/raw/main/imagens/site-me-adote.png))
 
 - 🚧 Em desenvolvimento 🚧
 
