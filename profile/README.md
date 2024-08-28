@@ -59,7 +59,7 @@ Junte-se a nós nesta jornada emocionante de desenvolvimento de software, gamifi
 
 ### [Site de Adoção de Animais 🐾](https://github.com/marco0antonio0/trabalho_extensao_medVet)
 
-![img](/imagens/site-me-adote.png)
+![img](https://raw.githubusercontent.com/ladsoftunama/ladsoftunama/main/imagens/site-me-adote.png)
 
 - Desenvolvido em colaboração com a equipe de ciencia da computação extensão 4° Unama Parque shopping
 - Desenvolvido com Next.js
